@@ -3,7 +3,7 @@
 A beautiful responsive website built with HTML & CSS.
 
 ## 🔗 Live Demo  
-👉 [Click here](abhishekshahab.github.io/my-spotify-clone-project)
+👉 [Click here]( https://abhishekshahab.github.io/my-spotify-clone-project/)
 
 ## 📁 Tech Stack  
 - HTML5  
